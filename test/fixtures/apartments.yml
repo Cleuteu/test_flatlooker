@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  surface: 1
+  price: 1
+  latitude: 1
+  longitude: 1
+
+two:
+  surface: 1
+  price: 1
+  latitude: 1
+  longitude: 1
